@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chad Stewart</h1>
 <h3 align="center">A Software Engineer from Kingston, Jamaica who thinks he's funny.</h3>
 
-- 🔭 I’m currently working on [Open-Sauced](https://wwww.github.com/open-sauched/open-sauced/)
+- 🔭 I’m currently working on [Open-Sauced](https://www.github.com/open-sauced/open-sauced/)
 
 - 🌱 I’m currently learning **Node.js, Express.js, PostgreSQL, GraphQL**
 
