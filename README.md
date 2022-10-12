@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chad Stewart</h1>
 <h3 align="center">A Software Engineer from Kingston, Jamaica who thinks he's funny.</h3>
 
-- 🔭 I’m currently working on [Open-Sauced](https://www.github.com/open-sauced/open-sauced/)
+- 🔭 I’m currently working on my organization [TechIsHiring](https://www.github.com/TechIsHiring)
 
-- 🌱 I’m currently learning **Node.js, Express.js, PostgreSQL, GraphQL**
+- 🌱 I’m currently learning **Node.js, Express.js, PostgreSQL**
 
 - 🤝 I’m looking for help with [You Go Back-End Project](https://github.com/chadstewart/you-go-backend-project)
 
 - 📝 I regularly write articles on [https://dev.to/chad_r_stewart](https://dev.to/chad_r_stewart)
 
-- 💬 Ask me about **JavaScript, React.js, Street Fighter**
+- 💬 Ask me about **JavaScript, TypeScript, React.js, Street Fighter**
 
 - 📫 How to reach me **chadrhonanstewart@gmail.com**
 
