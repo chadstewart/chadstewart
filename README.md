@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chadrhonanstewart@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mHgbIQJlWByhXMKapIfDP7bWCCdeWhAI/view?usp=sharing](https://drive.google.com/file/d/1mHgbIQJlWByhXMKapIfDP7bWCCdeWhAI/view?usp=sharing)
+- 📄 Know about my experiences: [My resume](https://drive.google.com/file/d/1B0j-QM9WZ2gx8eii7WVdA8zgU5ba_pAn/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a hobbyist eSports Athlete (I play fighting games, specifically Street Fighter V)**
 
