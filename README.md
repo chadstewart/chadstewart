@@ -1,10 +1,10 @@
 # I’m Chad Stewart👋
 
-I’m Chad Stewart, a Software Engineer from Kingston, Jamaica. I’ve done Front-End Engineering for the last 10+ years working at various organizations, from startups to enterprises. Outside of Software Engineering, I’m an amateur eSports athlete, primarily playing Capcom’s Street Fighter series of fighting games, currently Street Fighter 6.
+I’m a Software Engineer from Kingston, Jamaica. I’ve done Front-End Engineering for the last 10+ years working at various organizations, from startups to enterprises. Outside of Software Engineering, I’m an amateur eSports athlete, primarily playing Capcom’s Street Fighter series of fighting games, currently Street Fighter 6.
 
 I also try to make people laugh on occasion... sometimes successfully 🤣 
 
-## What I'll be doing moving forward
+## What I'll be doing moving forward ⏩
 
 What I’ll be doing for the foreseeable future is to explore working on Front-End dev tooling as well as exploring working on apps on a much larger-scale. Also I’d like to explore building apps and tools for the eSports and gaming community.
 
