@@ -20,7 +20,7 @@ What I’ll be doing for the foreseeable future is to explore working on Front-E
 - Launched OpenSauced’s Insights Platform, giving insights on hundreds of thousands of open source projects on GitHub
 - Contributed to digitizing the credit card onboarding process for National Commercial Bank Jamaica LTD. which onboarded thousands of new customers and brought in millions of dollars in revenue
 - Delivered several freelance projects for several clients
-- Not suck too badly at Street Fighter 😂
+- Not sucking too badly at Street Fighter 😂
 
 ## Check out what I’m working on 🌱
 
