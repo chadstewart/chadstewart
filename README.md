@@ -24,13 +24,13 @@ What I’ll be doing for the foreseeable future is to explore working on Front-E
 
 ## My Speaking Engagements 🎤
 
-- Appeared on the Scrimba Podcast speaking about TechIsHiring: [Link](https://scrimba.com/podcast/tech-is-hiring-and-heres-what-you-need-to-do-with-chad-stewart/)
-- Spoke about TechIsHiring on GitHub’s Open Source Friday stream: [Link](https://www.youtube.com/watch?v=HO4YuLYYQFc)
-- Hosted Twitter Space for TechIsHiring advertising job opportunities at BusRight: [Link](https://www.youtube.com/watch?v=iFhlC4mtbLQ)
-- Spoke about TechIsHiring and eSports on the Greater Than Podcast: [Link](https://www.greaterthancode.com/techishiring-esports-and-software-engineering)
-- Spoke about TechIsHiring and Open Source on the Virtual Coffee Podcast: [Link](https://virtualcoffee.io/podcast/chad-stewart-oss-and-techishiring)
-- Co-hosted Twitter Space with Brian Douglas (@bdougieYo) on FAANG’s effect on Open Source: [Link](https://www.youtube.com/watch?v=2YU5jPtQKd0)
-- Moderated Twitter Space with Shawn Wang (@swyx) about Tech Strategies and Business Models: [Link](https://mixtape.swyx.io/episodes/weekend-drop-tech-strategies-biz-models-coding-career-chat)
+- Appeared on the Scrimba Podcast speaking about TechIsHiring: [🎙️ Link](https://scrimba.com/podcast/tech-is-hiring-and-heres-what-you-need-to-do-with-chad-stewart/)
+- Spoke about TechIsHiring on GitHub’s Open Source Friday stream: [🎥 Link](https://www.youtube.com/watch?v=HO4YuLYYQFc)
+- Hosted Twitter Space for TechIsHiring advertising job opportunities at BusRight: [🎙️ Link](https://www.youtube.com/watch?v=iFhlC4mtbLQ)
+- Spoke about TechIsHiring and eSports on the Greater Than Podcast: [🎙️ Link](https://www.greaterthancode.com/techishiring-esports-and-software-engineering)
+- Spoke about TechIsHiring and Open Source on the Virtual Coffee Podcast: [🎙️ Link](https://virtualcoffee.io/podcast/chad-stewart-oss-and-techishiring)
+- Co-hosted Twitter Space with Brian Douglas (@bdougieYo) on FAANG’s effect on Open Source: [🎥 Link](https://www.youtube.com/watch?v=2YU5jPtQKd0)
+- Moderated Twitter Space with Shawn Wang (@swyx) about Tech Strategies and Business Models: [🎙️ Link](https://mixtape.swyx.io/episodes/weekend-drop-tech-strategies-biz-models-coding-career-chat)
 
 ## Check out what I’m working on 🌱
 
