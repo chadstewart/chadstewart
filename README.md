@@ -24,6 +24,7 @@ What I’ll be doing for the foreseeable future is to explore working on Front-E
 
 ## My Speaking Engagements 🎤
 
+- Spoke at React Rally 2024, giving my "Building your Front-End with Intention" on Front-End Architecture live [🎥 Link](https://www.youtube.com/live/M0lv_9u5Qi8?t=18973s)
 - Gave my talk, "Building your Front-End with Intention" as a Keynote at DeveloperWeek Europoe 2024
 - Spoke at CFE.dev on "Building your Front-End with Intention" about Front-End Architecture [🎥 Link](https://youtu.be/hem6KaheMBE?si=-zB_F5C19zBAzMLd) 
 - Appeared on the Scrimba Podcast speaking about TechIsHiring: [🎙️ Link](https://scrimba.com/podcast/tech-is-hiring-and-heres-what-you-need-to-do-with-chad-stewart/)
@@ -32,9 +33,8 @@ What I’ll be doing for the foreseeable future is to explore working on Front-E
 
 ## Check out what I’m working on 🌱
 
-- TechIsHiring’s open source project, the [TechIsHiring website](https://www.github.com/techishiring/techishiring-website)
+- A TechIsHiring open source project, the [TechIsHiring Job Search Resources](https://www.github.com/techishiring/job-hunt-resources)
 - [The Engineering Sandbox](https://www.github.com/chadstewart/engineering-sandbox), where I've been building an app to explore building and deploying various microservice architectures
-- My [JS Sandbox](https://www.github.com/chadstewart/js-sandbox), where I explore new tools and tech in the js exposystem
 
 ## Languages and Tools 🛠️
 
